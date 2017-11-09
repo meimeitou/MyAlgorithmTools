@@ -1,4 +1,5 @@
 from itertools import *
+
 dc={'a': 2, 'c': 4, 'd': 0, 'f':7}
 print(dc)
 
